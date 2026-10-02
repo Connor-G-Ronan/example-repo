@@ -1,0 +1,2 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Test task, Testing my program, 27 Sep 2026, 30 Oct 2026, No
